@@ -1,2 +1,2 @@
 # Clone-Google
-Clone da Homepage do site www.google.com
+- Cópia da Homepage do site https://www.google.com
